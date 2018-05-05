@@ -1,3 +1,4 @@
+//first come first serve scheduling
 #include <iostream>
 using namespace std;
 
