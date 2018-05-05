@@ -1,4 +1,4 @@
-//priority based (priority -> sjfs -> fcfs)
+//round robin scheduling
 #include <iostream>
 using namespace std;
 
